@@ -2,4 +2,4 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-Breakfast Menu Omega3
+streamlit.title('Breakfast Menu : Idlie 7 Dosa')
